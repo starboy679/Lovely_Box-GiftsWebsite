@@ -12,6 +12,10 @@ Lovely Box is a gift-box website that helps customers explore ready-made gift co
 * FAQ: Find answers to common questions.
 * WhatsApp Ordering: Contact the shop using pre-filled WhatsApp messages.
 
+💻 Live 
+
+https://starboy679.github.io/Lovely_Box-GiftsWebsite/
+
 🛠️ Built With
 
 * HTML5
